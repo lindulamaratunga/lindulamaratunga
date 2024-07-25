@@ -24,14 +24,13 @@ My favorite tools and technologies
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="65" height="65" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="65" style="width: 65px; height: 65px; max-width: 100%;" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg"></a>
       <br>React
-    </td>
-    
+    </td>    
+    <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="65" height="65" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
+      <br>Github
+    </td> 
   </tr>
   <tr>
   </tr>
