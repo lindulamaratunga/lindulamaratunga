@@ -49,7 +49,7 @@
       <br>SQL Server
     </td>     
         <td align="center" width="100">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="70" height="70" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="50" height="50" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
       <br>PostgreSQL
     </td>
       <td align="center" width="100">
@@ -66,7 +66,7 @@
     </td>
     </td>
             <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="70" height="70" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="60" height="60" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
       <br>Go
     </td>    
     <td align="center" width="100">
