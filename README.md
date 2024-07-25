@@ -190,6 +190,10 @@ My favorite tools and technologies
     </td>
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f38bde15cc741aaec976cfa6e7006f82777f427419c58405ccdfc921310ab52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"><img src="https://camo.githubusercontent.com/4f38bde15cc741aaec976cfa6e7006f82777f427419c58405ccdfc921310ab52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" width="65" height="65" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=express" style="max-width: 100%;"></a>
+      <br>Express
+    </td>
+        <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5bb755068913bf3733922af33c90ddb10e3629881d2363e108498175d5eac412/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72756279"><img src="https://camo.githubusercontent.com/5bb755068913bf3733922af33c90ddb10e3629881d2363e108498175d5eac412/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72756279" width="65" height="65" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=ruby" style="max-width: 100%;"></a>
       <br>Ruby
     </td>
             <td align="center" width="96">
