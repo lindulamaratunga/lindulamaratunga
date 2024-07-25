@@ -78,5 +78,3 @@ My Favourite Technologies
   </tr>
 </tbody></table></markdown-accessiblity-table>
 </article>
-  </div>
-</div>
