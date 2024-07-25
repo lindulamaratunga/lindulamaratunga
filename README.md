@@ -70,7 +70,7 @@
       <br>Go
     </td>    
     <td align="center" width="100">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="43" height="43" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="50" height="50" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
       <br>Azure
     </td>        
     <td align="center" width="100">
