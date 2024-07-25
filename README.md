@@ -65,15 +65,15 @@ Favourite Technologies
     <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="60" height="60" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
       <br>Azure
-    </td>        
+    </td>  
+           <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="60" height="60" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
+      <br>Github
+    </td> 
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"><img src="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="60" height="60" alt="Git" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"></a>
       <br>Git
     </td>      
-       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="60" height="60" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-      <br>Github
-    </td> 
             <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="60" height="60" alt="HTML" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
       <br>HTML
