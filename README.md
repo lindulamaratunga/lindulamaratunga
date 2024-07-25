@@ -13,7 +13,7 @@
       <br>ASP.NET
     </td>
           <td align="center" width="100">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="65" height="65" alt="Rest API" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="80" height="80" alt="Rest API" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
       <br>Rest API
     </td>    
     <td align="center" width="100">
