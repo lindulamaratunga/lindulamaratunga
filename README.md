@@ -6,7 +6,7 @@ Favourite Technologies
       <br>C#
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="60" height="60" alt="Vue" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="80" height="80" alt="Vue" style="max-width: 100%;"></a>
       <br>.NET
   </td>        
           <td align="center" width="96">
