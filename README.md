@@ -42,8 +42,7 @@ My Favourite Technologies
       <br>React
     </td>
   </tr>
-  <tr>
-  </tr>
+
   <tr>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
