@@ -18,11 +18,11 @@ Favourite Technologies
       <br>Rest API
     </td> 
         <td align="center" width="100">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="50" height="50" alt="Node.js" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="60" height="60" alt="Node.js" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a>
       <br>Node.js
     </td>
                 <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="50" height="50" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="60" height="60" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
       <br>Go
     </td>   
     <td align="center" width="100">
