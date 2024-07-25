@@ -25,7 +25,7 @@
       <br>Javascript
     </td>    
         <td align="center" width="100">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="65" height="65" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="60" height="60" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
       <br>JQuery
     </td>    
     <td align="center" width="100">
