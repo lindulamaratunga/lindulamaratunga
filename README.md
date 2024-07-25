@@ -23,6 +23,10 @@ My favorite tools and technologies
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
       <br>Javascript
     </td>
+        <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="65" height="65" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
+      <br>JQuery
+    </td>    
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="65" style="width: 65px; height: 65px; max-width: 100%;" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg"></a>
       <br>React
@@ -58,10 +62,6 @@ My favorite tools and technologies
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="65" height="65" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>Bootstrap
-    </td>
-        <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="65" height="65" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
-      <br>JQuery
     </td>
   </tr>
    <tr>
