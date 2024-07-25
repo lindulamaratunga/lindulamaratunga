@@ -76,9 +76,6 @@ My Favourite Technologies
       <br>Bootstrap
     </td>
   </tr>
-<tr>
-    </td>
-  </tr>
 </tbody></table></markdown-accessiblity-table>
 </article>
   </div>
