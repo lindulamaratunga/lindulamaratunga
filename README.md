@@ -47,7 +47,7 @@ Favourite Technologies
   <tr>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
-      <br>SQLServer
+      <br>SQL_Server
     </td>     
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="60" height="60" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
