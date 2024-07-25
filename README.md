@@ -9,7 +9,7 @@
       <br>C#
     </td>
           <td align="center" width="100">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574"><img src="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574" width="70" height="70" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=dotnet" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574"><img src="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574" width="60" height="60" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=dotnet" style="max-width: 100%;"></a>
       <br>ASP.NET
     </td>
           <td align="center" width="100">
