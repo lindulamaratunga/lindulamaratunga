@@ -73,10 +73,6 @@ My favorite tools and technologies
   <tr>
   </tr><tr>
     </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d605bb01223fbadc2e9ad0a86fdcb88d997a39035bbe99003681cccb35b6cee/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f6465"><img src="https://camo.githubusercontent.com/9d605bb01223fbadc2e9ad0a86fdcb88d997a39035bbe99003681cccb35b6cee/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f6465" width="65" height="65" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=node" style="max-width: 100%;"></a>
-      <br>Node
-    </td>
   </tr>
  <tr>
  </tr>
