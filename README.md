@@ -37,10 +37,7 @@ My Favourite Technologies
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="60" height="60" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
       <br>Azure
     </td> 
-    
-  </tr>
-  <tr>
-  </tr>
+   </tr>
   <tr>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
@@ -80,14 +77,9 @@ My Favourite Technologies
       <br>Bootstrap
     </td>
   </tr>
-   <tr>
-  </tr>
-  <tr>
-  </tr><tr>
+<tr>
     </td>
   </tr>
- <tr>
- </tr>
 </tbody></table></markdown-accessiblity-table>
 </article>
   </div>
