@@ -34,7 +34,11 @@ My favorite tools and technologies
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="65" height="65" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
       <br>Github
-    </td> 
+    </td>
+    <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"><img src="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="65" height="65" alt="Git" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"></a>
+      <br>Git
+    </td>    
   </tr>
   <tr>
   </tr>
@@ -47,10 +51,6 @@ My favorite tools and technologies
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="65" height="65" alt="dart" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
       <br>MySQL
     </td>     
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"><img src="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="65" height="65" alt="Git" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"></a>
-      <br>Git
-    </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="65" height="65" alt="HTML" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
       <br>HTML
