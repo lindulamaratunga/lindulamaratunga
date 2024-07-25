@@ -55,7 +55,6 @@ My Favourite Technologies
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0656fe26e0bd17784e371c880b6007a53afa88b8cc9e29f8d48f8b8c3ca5c95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/c0656fe26e0bd17784e371c880b6007a53afa88b8cc9e29f8d48f8b8c3ca5c95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="60" height="60" alt="MongoDB" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%;"></a>
       <br>MongoDB
     </td>
-    </td>
            <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="60" height="60" alt="GitHub" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
       <br>Github
