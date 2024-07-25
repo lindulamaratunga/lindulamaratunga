@@ -87,15 +87,5 @@ My Favourite Technologies
       <br>Bootstrap
     </td>
   </tr>
-   <tr>
-  </tr>
-  <tr>
-  </tr><tr>
-    </td>
-  </tr>
- <tr>
- </tr>
-</tbody></table></markdown-accessiblity-table>
-</article>
-  </div>
-</div>
+</tbody>
+</table></markdown-accessiblity-table>
