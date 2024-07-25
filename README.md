@@ -22,7 +22,7 @@ My Favourite Technologies
       <br>Node.js
     </td>
                 <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="60" height="60" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67"><img src="https://camo.githubusercontent.com/7032f2a4182b55119e84ca64e83fc0871bcc52f8cf6be8a6c5f6960767612dc0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f6c616e67" width="70" height="70" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=golang" style="max-width: 100%;"></a>
       <br>Go
     </td>   
     <td align="center" width="96">
@@ -79,7 +79,7 @@ My Favourite Technologies
       <br>HTML
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="60" height="60" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="70" height="70" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
       <br>CSS
     </td>
     <td align="center" width="96">
