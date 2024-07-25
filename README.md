@@ -80,7 +80,7 @@ My favorite tools and technologies
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="65" height="65" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>Bootstrap
     </td>
-    <td align="center" width="105">
+    <td align="center" width="102">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="50" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>SQL Server
     </td>   
