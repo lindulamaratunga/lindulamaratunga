@@ -1,7 +1,7 @@
 🧠My Favourite Technologies
 <markdown-accessiblity-table><table> <tr> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60" alt=".NET"/><br>.NET </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C#"/><br>C# </td> 
+<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#"/><br>C# </td> 
 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/><br>GitHub </td> 
