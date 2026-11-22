@@ -1,29 +1,29 @@
 🧠My Favourite Technologies
 <markdown-accessiblity-table><table> <tr> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60" alt=".NET"/><br>.NET </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#"/><br>C# </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/><br>Node.js</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript"/><br>JavaScript</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript"/><br>TypeScript</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=jquery" width="60" height="60" alt="jQuery"/><br>jQuery</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/><br>React </td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60" alt=".NET"/><br>.NET </td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#"/><br>C# </td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/><br>Node.js</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript"/><br>JavaScript</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript"/><br>TypeScript</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=jquery" width="60" height="60" alt="jQuery"/><br>jQuery</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/><br>React </td> 
 </tr> <tr> 
 
-<td align="center" width="96"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="MSSQL"/><br>MSSQL</td> 
+<td align="center" width="135"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="MSSQL"/><br>MSSQL</td> 
   
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML"/><br>HTML </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS"/><br>CSS </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap"/><br>Bootstrap 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML"/><br>HTML </td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS"/><br>CSS </td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap"/><br>Bootstrap 
 </tr> <tr> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git </td>   
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bitbucket" width="60" height="60" alt="Bitbucket"/><br>Bitbucket</td>
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/><br>GitHub</td>
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ai" width="60" height="60" alt="AI"/><br>AI</td>   
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git </td>   
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=bitbucket" width="60" height="60" alt="Bitbucket"/><br>Bitbucket</td>
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/><br>GitHub</td>
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td> 
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=ai" width="60" height="60" alt="AI"/><br>AI</td>   
+<td align="center" width="135"> <img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td> 
   
 </td> </tr> </table></markdown-accessiblity-table>
