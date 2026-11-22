@@ -17,7 +17,7 @@
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL </td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL </td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB </td> 
-<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite"/><br>SQLite</td> 
+<td align="center" width="96"> <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git </td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML"/><br>HTML </td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS"/><br>CSS </td> 
