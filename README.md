@@ -12,7 +12,7 @@
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure </td> 
 
 </tr> <tr> 
-<td align="center" width="96"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="SQL Server"/><br>SQL Server </td> 
+<td align="center" width="96"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" alt="MSSQL"/><br>MSSQL</td> 
   
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL </td> 
 <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL </td> 
