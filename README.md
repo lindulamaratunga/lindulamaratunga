@@ -2,9 +2,9 @@
 <markdown-accessiblity-table><table> <tr> 
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60" alt=".NET"/><br>.NET </td> 
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#"/><br>C# </td> 
-<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/><br>Node.js</td> 
-<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript"/><br>JavaScript</td> 
+<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/><br>Node.js</td>
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript"/><br>TypeScript</td> 
+<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript"/><br>JavaScript</td> 
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=jquery" width="60" height="60" alt="jQuery"/><br>jQuery</td> 
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/><br>React </td> 
 </tr> <tr> 
