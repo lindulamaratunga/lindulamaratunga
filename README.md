@@ -21,8 +21,8 @@
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git </td>
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/><br>GitHub</td>  
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=bitbucket" width="60" height="60" alt="Bitbucket"/><br>Bitbucket</td>
+<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
-<td align="center" width="120"> <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td> 
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=ai" width="60" height="60" alt="AI"/><br>AI</td>   
 <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td> 
   
